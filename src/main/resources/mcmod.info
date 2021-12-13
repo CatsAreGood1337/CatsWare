@@ -1,0 +1,17 @@
+[
+  {
+    "ModId": "cc",
+    "name": "catsware",
+    "description": "catsware",
+    "version": "0.1",
+    "McVersion": "1.12.2",
+    "logoFile": "CatsWare.png",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "CatsAreGood"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
